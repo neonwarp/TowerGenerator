@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+
+id = "tower_generator"
+version = "1.0.0"
+name = "Tower Generator"
+tagline = "A Blender script to procedurally generate 3D towers"
+maintainer = "RIX Kft. <info@rixkft.hu>"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
